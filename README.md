@@ -4,14 +4,14 @@ The knapsack problem and the subset sum problem (NP-Hard Problem).
 ## About
 The discreet backpack problem comes to the maximization of the problem of selecting items so that their total value is as significant as possible and, at the same time, they fit into the specific weight of the backpack. To facilitate the understanding of the problem, the weight of items was generated in the range of 0.1-1, and item values in the range of 1-100 (these are random values with an even distribution).
 
-| item values | weight of items |
-| ------------- | ------------- |
-| 70  | 0.79  |
-| 40 | 0.67  | 
-| 45  | 0.59  |
-| 33  | 0.18  | 
-| 1  | 0.94  |
-| 15  | 0.8  | 
+| item no. | item values | weight of items |
+| ------------- | ------------- | ------------- |
+| 1 | 70 | 0.79 |
+| 2 | 40 | 0.67 | 
+| 3 | 45 | 0.59 |
+| 4 | 33 | 0.18 | 
+| 5 | 1 | 0.94 |
+| 6 | 15 | 0.8 | 
 
 ## How to Run
 
